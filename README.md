@@ -47,3 +47,6 @@
 <li>Producing Output list and converting it to structured data</li>
 <li>Writing the output file into disk</li>
 <li>Tested with multiple resumes and getting skills and technologies properly</li>
+
+<h4>Further Enhancement<h4>
+ <p><b>We can use RNN for classification of these code by taking 2000 words -labelling some of them with skill and some of them not skills. Train them through a rnn model and pass the resume to get skills and technologies</b></p>
